@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<WINFARM_SCADA_SYSCFG>
+	<node name="scada1" type="pc" ip="IP:10.1.50.251" controller_ip="IP:0.0.0.0" has_data_center="TRUE" group="null" template="null"/>
+	<node name="server" type="server" ip="IP:10.1.50.252" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+	<node name="webserver" type="web" ip="IP:0.0.0.0" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+     
+
+	<node name="1401F" type="controller"  ip="IP:10.1.51.181" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1402F" type="controller"  ip="IP:10.1.51.182" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1403F" type="controller"  ip="IP:10.1.51.183" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1404F" type="controller"  ip="IP:10.1.51.184" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1405F" type="controller"  ip="IP:10.1.51.185" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1406F" type="controller"  ip="IP:10.1.51.186" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1407F" type="controller"  ip="IP:10.1.51.187" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1408F" type="controller"  ip="IP:10.1.51.188" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1409F" type="controller"  ip="IP:10.1.51.189" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1410F" type="controller"  ip="IP:10.1.51.190" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1411F" type="controller"  ip="IP:10.1.51.191" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1412F" type="controller"  ip="IP:10.1.51.192" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1413F" type="controller"  ip="IP:10.1.51.193" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1414F" type="controller"  ip="IP:10.1.51.194" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1415F" type="controller"  ip="IP:10.1.51.195" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+<node name="1316F" type="controller"  ip="IP:10.1.52.196" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1317F" type="controller"  ip="IP:10.1.52.197" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1318F" type="controller"  ip="IP:10.1.52.198" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1319F" type="controller"  ip="IP:10.1.52.199" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1320F" type="controller"  ip="IP:10.1.52.200" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1321F" type="controller"  ip="IP:10.1.52.201" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1322F" type="controller"  ip="IP:10.1.52.202" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1323F" type="controller"  ip="IP:10.1.52.203" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1324F" type="controller"  ip="IP:10.1.52.204" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1325F" type="controller"  ip="IP:10.1.52.205" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1326F" type="controller"  ip="IP:10.1.52.206" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1327F" type="controller"  ip="IP:10.1.52.207" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1328F" type="controller"  ip="IP:10.1.52.208" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1329F" type="controller"  ip="IP:10.1.52.209" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1330F" type="controller"  ip="IP:10.1.52.210" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1331F" type="controller"  ip="IP:10.1.52.211" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1332F" type="controller"  ip="IP:10.1.52.212" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+
+
+<node name="1333F" type="controller"  ip="IP:10.1.52.213" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="MOOG" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82" line="1号线" web="http://10.1.52.183/broadWeb/system/bwviewpg.asp?proj=如东风场&amp;node=如东风场&amp;user=admin&amp;pass=123&amp;goto=dlogtrd=7&amp;tool=0&amp;capt=0&amp;stat=0&amp;flag=3457" />
+	
+        
+</WINFARM_SCADA_SYSCFG>

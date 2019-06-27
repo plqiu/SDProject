@@ -1,0 +1,32 @@
+{
+  "webserver":{
+    "ip":"192.168.43.40",
+    "port": 9000
+  },
+    "modbusserver":{
+    "ip":"192.168.0.102",
+    "port":5030
+  },
+    "redis":{
+    "ip":"192.168.0.99",
+    "password":"123456",
+    "port":6379
+  },
+  "udpserver": {
+    "ip": "192.168.43.40",
+    "port": 10000
+  },
+  "modbustcp": {
+    "host": "192.168.0.102",
+    "port": 5020,
+    "coils": {
+      "addr": 0,
+      "length": 5
+    },
+    "registers": {
+      "addr": 0,
+      "length": 12,
+      "parse_mode": "32_float"
+    }
+  }
+}

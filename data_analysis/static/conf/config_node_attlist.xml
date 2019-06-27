@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<WINFARM_SCADA_SYSCFG>
+	<node name="scada1" type="pc" ip="IP:10.1.50.250" has_data_center="FALSE" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+	<node name="server" type="server" ip="IP:10.1.50.252" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+	<node name="webserver" type="web" ip="IP:0.0.0.0" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+  <node name="beijing" type="datacenter" ip="IP:114.251.196.108" controller_ip="IP:192.168.238.250" group="null"  template="null"/>
+
+	<node name="01" type="controller" ip="IP:10.1.51.181" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="02" type="controller" ip="IP:10.1.51.182" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="03" type="controller" ip="IP:10.1.51.183" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="04" type="controller" ip="IP:10.1.51.184" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="05" type="controller" ip="IP:10.1.51.185" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="06" type="controller" ip="IP:10.1.51.186" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="07" type="controller" ip="IP:10.1.51.187" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="08" type="controller" ip="IP:10.1.51.188" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="09" type="controller" ip="IP:10.1.51.189" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="10" type="controller" ip="IP:10.1.51.190" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="11" type="controller" ip="IP:10.1.51.191" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="1" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="12" type="controller" ip="IP:10.1.52.192" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="13" type="controller" ip="IP:10.1.52.193" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="14" type="controller" ip="IP:10.1.52.194" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="15" type="controller" ip="IP:10.1.52.195" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="16" type="controller" ip="IP:10.1.52.196" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="17" type="controller" ip="IP:10.1.52.197" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="18" type="controller" ip="IP:10.1.52.198" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="19" type="controller" ip="IP:10.1.52.199" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="20" type="controller" ip="IP:10.1.52.200" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="21" type="controller" ip="IP:10.1.52.201" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="22" type="controller" ip="IP:10.1.52.202" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="2" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="23" type="controller" ip="IP:10.1.53.203" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="24" type="controller" ip="IP:10.1.53.204" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="25" type="controller" ip="IP:10.1.53.205" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="26" type="controller" ip="IP:10.1.53.206" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="27" type="controller" ip="IP:10.1.53.207" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="28" type="controller" ip="IP:10.1.53.208" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="29" type="controller" ip="IP:10.1.53.209" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="30" type="controller" ip="IP:10.1.53.210" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="日立" turbine_type="UP82"/>
+	<node name="31" type="controller" ip="IP:10.1.53.211" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="龙源" turbine_type="UP82"/>
+	<node name="32" type="controller" ip="IP:10.1.53.212" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="龙源" turbine_type="UP82"/>
+	<node name="33" type="controller" ip="IP:10.1.53.213" controller_ip="IP:0.0.0.0.1.1" plc="phoenix" group="1" line="3" template="template_1" pitch="华电天仁" gearbox="南高齿" generator="新湘电" converter="龙源" turbine_type="UP82"/>
+
+
+</WINFARM_SCADA_SYSCFG>

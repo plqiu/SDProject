@@ -1,0 +1,152 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>fishHome</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}" charset="utf-8"/>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}"/>
+    <link rel="stylesheet" href="{% static 'css/jquery-ui.css' %}"/>
+    <link rel="stylesheet" href="{% static 'css/jquery-ui-timepicker-addon.css' %}"/>
+
+    <script src="{% static 'js/jquery.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/jquery-ui-timepicker-addon.js' %}"></script>
+    <script src="{% static 'js/jquery-ui-timepicker-zh-CN.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+    <style type="text/css">
+        body {
+            background-image: url("{% static 'img/bg.jpg' %}");
+            background-size: 100% 100%;
+        }
+
+        video {
+            width: 40%;
+            height: 30%;
+            border: solid 2px #ccc;
+        }
+
+        div.shipin {
+            text-align: center;
+        }
+
+        span {
+            float: left;
+            width: 120px;
+            height: 30px;
+            text-align: justify;
+            color: white;
+        }
+
+        i {
+            width: 100%;
+            height: 0;
+            display: inline-block;
+        }
+
+        input {
+            width: 120px;
+            text-align: center;
+            font-weight: bold;
+            color: black;
+            padding: 2px;
+            border-radius: 3px;
+        }
+
+        #temprature {
+            color: white;
+        }
+
+        #ph {
+            color: white;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        li > img {
+            vertical-align: bottom;
+        }
+
+        form {
+            color: white;
+            width: 40%;
+            height: 100%;
+            border: solid 2px black;
+            background-color: rgb(0, 0, 0, 0.7);
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+    <script type="text/javascript">
+        window.onload = function () {
+            var oT = document.getElementById('temprature');
+            oT.value = Math.ceil(Math.random() * 100);
+            var oT1 = oT.value;
+
+            var oP = document.getElementById('ph');
+            oP.value = Math.ceil(Math.random() * 100);
+            var oP1 = oP.value;
+
+            if (oT1 < 30) {
+                oT.style.background = 'blue';
+            } else if (oT1 >= 30 && oT1 < 45) {
+                oT.style.background = 'green';
+            } else {
+                oT.style.background = 'red'
+            }
+
+
+            if (oP1 < 6.5) {
+                oP.style.background = 'blue';
+            } else if (oP1 >= 6.5 && oP1 < 7.5) {
+                oP.style.background = 'green';
+            } else {
+                oP.style.background = 'red'
+            }
+
+        }
+
+    </script>
+</head>
+<body>
+<div class="shipin">
+    <video controls="controls" autoplay="autoplay" src="{% static 'img/1.mp4' %}"></video>
+</div>
+<form>
+    <ul>
+        <li>
+            <span>鱼缸温度：<i></i></span><span id="temprature" class="pull-right"></span>℃
+        </li>
+        <br>
+        <li>
+            <span>鱼缸PH值：<i></i></span><span id="ph" class="pull-right"></span>
+        </li>
+        <br>
+         <br>
+        <li>
+            <input id='water_pump' type="button" name="" value="启动水泵循环：">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img id="water_pump1" src="{% static 'img/green.png' %}">
+        </li>
+        <br>
+        <li>
+            <input id='disinfect' type="button" name="" value="启动消毒：">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img id="disinfect1" src="{% static 'img/green.png' %}">
+
+        </li>
+        <br>
+        <li>
+            <input id='oxygen_supply' type="button" name="" value="启动氧气：">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img id="oxygen_supply1" src="{% static 'img/green.png' %}">
+        </li>
+        <br>
+        <li>
+            <input id='heater' type="button" name="" value="启动加热：">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img id="heater1"src="{% static 'img/green.png' %}">
+        </li>
+    </ul>
+</form>
+</body>
+</html>

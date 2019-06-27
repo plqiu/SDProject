@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<data busAddr="1" busPoints="1" busType="BOOL" scada="BOOL" index="137" name="VISU_DI_CONTROL_RESET_SIGNAL" blockModbus="0" blockRedis="0" blockLog="0"/>
+<data busAddr="2" busPoints="1" busType="BOOL" scada="BOOL" index="138" name="VISU_DI_CONTROL_START_SIGNAL" blockModbus="0" blockRedis="0" blockLog="0"/>
+<data busAddr="3" busPoints="1" busType="BOOL" scada="BOOL" index="139" name="VISU_DI_CONTROL_STOP_SIGNAL" blockModbus="0" blockRedis="0" blockLog="0"/>
+<data busAddr="4" busPoints="1" busType="BOOL" scada="BOOL" index="140" name="VISU_DI_CONTROL_SERVICE_SIGNAL" blockModbus="0" blockRedis="0" blockLog="0"/>
+</data>

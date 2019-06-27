@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adsDevices redisServer="192.168.0.99" redisPort="6379" redisTtl="90" redisAuth="123456" logSecs="2" dataSaveDays="30" logSaveDays="30" dataDir="/home/user/" logDir="/home/user/">
+    <device name="FJ01" netId="192.168.0.98.1.1" netPort="801" ip="192.168.0.98" point01File="cfads1_01.xml" point02File="cfads1_02.xml" point03File="cfads1_03.xml" point04File="cfads1_04.xml"  />
+</adsDevices>

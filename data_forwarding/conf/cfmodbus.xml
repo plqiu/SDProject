@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modbus port="502">
+    <device slaveId="1" devName="FJ01"/>
+
+</modbus>

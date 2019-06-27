@@ -1,0 +1,12 @@
+{
+  "ftp": {
+       "host": "32.16.1.53",
+       "port": 22,
+       "user": "winddjxx",
+       "password": "djxx",
+       "remote_save_dir": "./"
+  },
+
+  "expire": 1296000
+
+}

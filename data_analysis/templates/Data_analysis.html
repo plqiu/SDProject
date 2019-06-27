@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+ <meta charset="utf-8">
+ {% load staticfiles %}
+<html>
+<head>
+	<title>数据分析</title>
+
+
+   	<script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
+	<script type="text/javascript" src="{% static 'js/WdatePicker.js'%}"></script>
+    <script src="{% static 'js/jquery.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/jquery-ui-timepicker-addon.js' %}"></script>
+    <script src="{% static 'js/jquery-ui-timepicker-zh-CN.js' %}"></script>
+
+    <script src="{% static 'info/js/main.js' %}"></script>
+    <style type="text/css">
+		
+		html,body{width: 100%;height: 100%;margin: 0;padding:0;}
+		div.main{width: 80%;height: 80%;background: #ccc;margin:auto;top: 10%;position: relative;}
+		
+		div.left{height: 90%;width: 40%;background: #888;float: left;margin:2%;}
+			.left1{width:98%;height: 30%;float: left;overflow-y: scroll;background: #fff;margin: 1%}
+			.left button{width: 150px;height: 30px;margin-left: 10px;}
+
+		div.right{height: 90%;width: 52%;background: #999;float: right;margin:2%;}
+			.right1{width:98%;height: 30%;float: left;overflow-y: scroll;background: #fff;margin: 1%}
+			fieldset{line-height: 30px;}
+			form{height: 100%;}
+			form span{width: 120px;display: inline-block;}
+			.right button{width: 150px;height: 30px;margin-left: 10px;}
+
+		#var_name,#var_name1,#collect_var_name{font-size: 14px;list-style: none;padding-left: 5px;}
+		
+		
+	</style>
+</head>
+<body>
+	<div class="main">
+		<div class="left">
+			&nbsp;&nbsp;&nbsp;&nbsp;模拟量变量点：
+			<div class="left1">
+				<ul id="var_name"></ul>
+			</div><br>
+			<button id="add">添加</button><br>
+			&nbsp;&nbsp;&nbsp;&nbsp;数字量变量点：
+			<div class="left1">
+				<ul id="var_name1"></ul>
+			</div><br>
+			<button id="add1">添加</button><br>
+		</div>
+
+		<div class="right">
+			<form>
+			<fieldset>
+				<legend>数据中心</legend>
+						<input type="text" placeholder="请输入数据源地址">
+						<input type="button" id="ip_ok" value="确定">
+			</fieldset>
+			<fieldset>
+				<span>采点频率（秒）</span>
+				<select id="interval" onchange="interval1()">
+					<option>请选择</option>
+					<option>3</option>
+					<option>12</option>
+					<option>60</option>
+					<option>200</option>
+				</select>
+				<br>
+				<span>选择风机</span>
+				<select id="wind_turbine_name" onchange="wind_turbine_name1()">
+					<option>请选择</option>
+					<option>A01</option>
+					<option>A02</option>
+					<option>A03</option>
+					<option>A04</option>
+				</select><br>
+				<span>开始时间：</span>
+				<input id="start_time" type="text" name="" value=""
+					onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})"
+					autocomplete="off" class="ginput4" onchange="starttime()">
+					<br>
+				<span>结束时间：</span>
+				<input id="stop_time" type="text" name="" value=""
+					onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})"
+					autocomplete="off" class="ginput4" onchange="stoptime()">
+			</fieldset>
+			<div class="right1">
+				<ul id="collect_var_name">
+				</ul>
+			</div><br>
+			<button type="button" onclick="remove_varname()">删除</button><br>
+			<fieldset>
+				<button id="begin" type="submit" style="width: 200px;" onclick='start()'>开始采集数据</button>
+				<button id="export" type="submit" style="width: 200px;">导出数据</button>
+			</fieldset>
+				<button style="background: red;color: #0f0;height: 30px;width: 20vh" onclick="test()">测试测试测试</button>
+			</form>
+		</div>
+	</div>
+	<script type="text/javascript">
+	</script>
+</body>
+
+</html>

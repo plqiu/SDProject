@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<data busAddr="1" busPoints="2" busType="FLOAT" scada="LREAL" index="1" name="INIT_CONVERTER_REACTIVE_POWER_SETPOINT_NORMAL_OPERATION" blockModbus="0" blockRedis="0" blockLog="0"/>
+<data busAddr="3" busPoints="2" busType="FLOAT" scada="REAL" index="51" name="VISU_CONTROLLER_PITCH_ROTORSPEED_LIMIT" blockModbus="0" blockRedis="0" blockLog="0"/>
+<data busAddr="5" busPoints="2" busType="FLOAT" scada="REAL" index="192" name="VISU_CONTROLLER_POWER_LIMIT" blockModbus="0" blockRedis="0" blockLog="0"/>
+</data>

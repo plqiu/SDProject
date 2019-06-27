@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<WINFARM_SCADA_SYSCFG>
+	<node name="scada1" type="pc" ip="IP:10.1.50.250" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+	<node name="server" type="server" ip="IP:10.1.50.252" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+        <node name="dataClient" type="dataClient" ip="IP:10.1.50.240" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+	<node name="webserver" type="web" ip="IP:0.0.0.0" controller_ip="IP:0.0.0.0" group="null" template="null"/>
+
+	<node name="67" type="controller" ip="IP:10.1.51.181" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="68" type="controller" ip="IP:10.1.51.182" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="69" type="controller" ip="IP:10.1.51.183" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="70" type="controller" ip="IP:10.1.51.184" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="71" type="controller" ip="IP:10.1.51.185" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="72" type="controller" ip="IP:10.1.51.186" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="73" type="controller" ip="IP:10.1.51.187" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="74" type="controller" ip="IP:10.1.51.188" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="75" type="controller" ip="IP:10.1.51.189" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="76" type="controller" ip="IP:10.1.51.190" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="77" type="controller" ip="IP:10.1.51.191" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="78" type="controller" ip="IP:10.1.51.192" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="79" type="controller" ip="IP:10.1.52.193" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="80" type="controller" ip="IP:10.1.52.194" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="81" type="controller" ip="IP:10.1.52.195" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="82" type="controller" ip="IP:10.1.52.196" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="83" type="controller" ip="IP:10.1.52.197" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="84" type="controller" ip="IP:10.1.52.198" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="85" type="controller" ip="IP:10.1.52.199" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="86" type="controller" ip="IP:10.1.52.200" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="87" type="controller" ip="IP:10.1.52.201" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="88" type="controller" ip="IP:10.1.52.202" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="89" type="controller" ip="IP:10.1.52.203" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="90" type="controller" ip="IP:10.1.52.204" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="91" type="controller" ip="IP:10.1.53.205" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="92" type="controller" ip="IP:10.1.53.206" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="93" type="controller" ip="IP:10.1.53.207" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="94" type="controller" ip="IP:10.1.53.208" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="95" type="controller" ip="IP:10.1.53.209" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="96" type="controller" ip="IP:10.1.53.210" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="97" type="controller" ip="IP:10.1.53.211" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="98" type="controller" ip="IP:10.1.53.212" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+	<node name="99" type="controller" ip="IP:10.1.53.213" controller_ip="IP:5.3.66.12" group="1" template="template_3" pitch="mccv" gearbox="南高齿" generator="湘电" converter="ABB" turbine_type="UP82"/>
+
+	
+</WINFARM_SCADA_SYSCFG>
+

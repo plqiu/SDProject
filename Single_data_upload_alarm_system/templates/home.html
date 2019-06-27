@@ -1,0 +1,138 @@
+
+ {% load staticfiles %}
+<!DOCTYPE>
+<html>
+<head>
+    <title>log</title>
+    <link  rel="stylesheet" type="text/css" href="{% static 'info/css/main.css' %}" charset="utf-8"/>
+    <link  rel="stylesheet"  href="{% static 'info/css/bootstrap.min.css' %}" />
+    <link  rel="stylesheet"  href="{% static 'info/css/jquery-ui.css' %}" />
+    <link  rel="stylesheet"  href="{% static 'info/css/jquery-ui-timepicker-addon.css' %}" />
+    
+    <script src="{% static 'info/js/jquery.js' %}"></script>
+    <script src="{% static 'info/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'info/js/jquery-ui.js' %}"></script>
+    <script src="{% static 'info/js/jquery-ui-timepicker-addon.js' %}"></script>
+    <script src="{% static 'info/js/jquery-ui-timepicker-zh-CN.js' %}"></script>
+    
+    <script src="{% static 'info/js/main.js' %}"></script>
+</head>
+<body>
+    
+    
+    <!--导航条-->
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Brand</a>
+
+            </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               <ul class="nav navbar-nav">
+                   <li class="active"><a href="#">北京国电思达科技有限公司 <span class="sr-only">(current)</span></a></li>
+                   <li><a href="/readconf/">配置文件</a></li>
+                   <li ><a href="/modifyconf/">修改配置信息</a></li>
+                   
+               </ul>
+            </div>
+            
+            
+        </div>
+    </nav>
+    <div class="container">
+        <div class="content">
+            <div class="row">
+                <div class="col-md-3">
+                    <form class="form-horizontal">
+                        <div class="form-group">
+                            <label for="inputEmail3" class="col-sm-3 control-label">开始</label>
+                            <div class="col-sm-9">
+                                <input type="text" name="start" class="form-control start" id="datepicker_start">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-3">
+                    <form class="form-horizontal">
+                        <div class="form-group">
+                            <label for="inputEmail3" class="col-sm-3 control-label">结束</label>
+                            <div class="col-sm-9">
+                                <input type="text" name="end" class="form-control end" id="datepicker_end">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-3">
+                    <div class="row">
+                        <label for="inputEmail3" class="col-sm-4 choice" name="choice">类型</label>
+                        <div class="col-sm-8">
+                            <select class="form-control" id="select">
+                                 <option>ALL</option>
+                                <option>ERROR</option>  
+                            </select>
+                        </div>
+                    </div>   
+                    
+                </div>
+                <div class="col-md-3">
+                    <form action="" method="post">
+                        {% csrf_token %}
+                        <button type="button" class="btn btn-success" id="search">提交</button>
+                        <button type="button" class="btn btn-success" id="open">开启刷新</button>
+                        <button type="button" class="btn btn-success" id="close">关闭刷新</button>
+                    </form>
+
+                    
+
+                    
+                </div>
+            </div>  
+            <div class = "row">
+                <div class="col-md-12">
+                    <audio  src="{% static 'info/Timbaland - Apologize.mp3' %}" controls="controls" id = "music">
+                         Your browser does not support the audio element.
+                </audio>
+                </div>
+                
+            </div>
+            
+            <div class="row">
+                <div class="col-md-12 all">
+                    <div class = "panel panel-default">
+                        <div class="panel-heading">日志信息</div>
+                        
+                        <table class="table ">
+                            <tbody class = "all_info">
+                                <tr>
+                                    <td>时间</td>
+                                    <td>位置</td>
+                                    <td>类型</td>
+                                    <td>内容</td>
+                                </tr>  
+                            </tbody>
+                            <!--{% for i in string%}
+                            <tr>
+                                <td>{{i.date}}</td>
+                                <td>{{i.type}}</td>
+                                <td>{{i.content}}</td>
+                            </tr>
+                            {% endfor %}-->
+                        </table>
+                        <div class="load">
+                            <div class="load-more">加载更多</div>
+                        </div>   
+                    </div>
+
+                    
+                </div>  
+            </div>
+            
+        </div>
+       
+    </div>
+    
+</body>
+</html>

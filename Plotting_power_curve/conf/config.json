@@ -1,0 +1,16 @@
+{
+  "start_time":"2019-02-26 17:10:00",
+  "stop_time":"2019-03-05 18:40:00",
+  "collect_var_name":["timeTick",
+    "WIND_SPEED",
+    "GRID_POWER",
+    "VISU_CONTROLLER_PITCH_ROTORSPEED_LIMIT",
+    "MAIN.POWER_PRODUCTION",
+    "GEARBOX_OIL_TEMPERATURE_GEARBOX",
+    "PITCH_POSITION_1",
+    "VISU_CONTROLLER_POWER_LIMIT"],
+  "interval":"200",
+  "wind_turbine_name":"Fj01",
+  "save_file_name":"123.csv",
+  "raw_data_storage_path":"D:/Zzh/SDProject/data_analysis/data/"
+}

@@ -1,0 +1,164 @@
+
+ {% load staticfiles %}
+<!DOCTYPE>
+<html>
+<head>
+    <title>log</title>
+    <link  rel="stylesheet" type="text/css" href="{% static 'info/css/main.css' %}" charset="utf-8"/>
+    <link  rel="stylesheet" type="text/css" href="{% static 'info/css/conf.css' %}" charset="utf-8"/>
+    <link  rel="stylesheet"  href="{% static 'info/css/bootstrap.min.css' %}" />
+    <link  rel="stylesheet"  href="{% static 'info/css/jquery-ui.css' %}" />
+    <link  rel="stylesheet"  href="{% static 'info/css/jquery-ui-timepicker-addon.css' %}" />
+    
+    <script src="{% static 'info/js/jquery.js' %}"></script>
+    <script src="{% static 'info/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'info/js/jquery-ui.js' %}"></script>
+    <script src="{% static 'info/js/jquery-ui-timepicker-addon.js' %}"></script>
+    <script src="{% static 'info/js/jquery-ui-timepicker-zh-CN.js' %}"></script>
+    
+    
+</head>
+<body>
+    
+    
+    <!--导航条-->
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Brand</a>
+
+            </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               <ul class="nav navbar-nav">
+                   <li><a href="/">北京国电思达科技有限公司 <span class="sr-only">(current)</span></a></li>
+                   <li class="active"><a href="/readconf/">配置文件</a></li>
+                   <li class=""><a href="/modifyconf/">修改配置信息</a></li>
+                   
+               </ul>
+            </div>
+            
+            
+        </div>
+    </nav>
+    <div class="container">
+        <div class="content">
+            <div class="row">
+                <form class="form-horizontal">
+                    <div class="form-group">
+                        <label for="inputEmail3" class="col-sm-4 control-label">udp_server:host</label>
+                        <div class="col-sm-6">
+                            <input type="text" class="form-control" readonly="readonly" id="inputEmail3" value="{{data.udp_server.host}}">
+                        </div>
+                        <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">udp_server:port</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.udp_server.port}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">ftp:active</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.ftp.active}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">ftp:host</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.ftp.host}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">ftp:port</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.ftp.port}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">ftp:user</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.ftp.user}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">ftp:password</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.ftp.password}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">ftp:remote_save_dir</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.ftp.remote_save_dir}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">samba:active</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.samba.active}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">samba:path</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.samba.path}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">WindFramInformation:WindFramName</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly" id="inputPassword3" value="{{data.WindFramInformation.WindFramName}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">WindFramInformation:template</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control" readonly="readonly"  id="inputPassword3" value="{{data.WindFramInformation.template}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    <div class="form-group">
+                       <label for="inputPassword3" class="col-sm-4 control-label">expire</label>
+                       <div class="col-sm-6">
+                           <input type="text" class="form-control"readonly="readonly"  id="inputPassword3" value="{{data.expire}}">
+                       </div>
+                       <div class="col-sm-2">  
+                        </div>
+                    </div>
+                    
+                </form>
+            </div>
+        </div>
+       
+    </div>
+    
+</body>
+</html>

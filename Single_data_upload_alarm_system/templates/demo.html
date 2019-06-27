@@ -1,0 +1,165 @@
+<p>udp_server:host &nbsp&nbsp&nbsp {{data.udp_server.host}}</p>
+          <p>udp_server:port &nbsp&nbsp&nbsp {{data.udp_server.port}}</p>
+
+          <p>ftp:active &nbsp&nbsp&nbsp {{data.ftp.active}}</p>
+          <p>ftp:host &nbsp&nbsp&nbsp {{data.ftp.host}}</p>
+          <p>ftp:port &nbsp&nbsp&nbsp {{data.ftp.port}}</p>
+          <p>ftp:user &nbsp&nbsp&nbsp {{data.ftp.user}}</p>
+          <p>ftp:password &nbsp&nbsp&nbsp {{data.ftp.password}}</p>
+          <p>ftp:remote_save_dir &nbsp&nbsp&nbsp {{data.ftp.remote_save_dir}}</p>
+
+          <p>samba:active &nbsp&nbsp&nbsp {{data.samba.active}}</p>
+          <p>samba:path &nbsp&nbsp&nbsp {{data.samba.path}}</p>
+
+          <p>WindFramInformation:WindFramName &nbsp&nbsp&nbsp {{data.WindFramInformation.WindFramName}}</p>
+          <p>WindFramInformation:template &nbsp&nbsp&nbsp {{data.WindFramInformation.template}}</p>
+
+          <p>expire &nbsp&nbsp&nbsp {{data.expire}}</p>
+
+
+
+
+
+
+          udp_server = {}
+    ftp = {}
+    samba = {}
+    WindFramInformation = {}
+
+
+    if request.method == 'POST':
+        udp_server = request.POST['udp_server']
+        ftp = request.POST['ftp']
+        samba = request.POST['samba']
+        WindFramInformation= request.POST['WindFramInformation']
+        expire= request.POST['expire']
+    
+    print(expire)
+
+    datas = {};
+
+    datas1 = {};
+    datas2 = {};
+    datas3 = {};
+    datas4 = {};
+
+    datas1['host'] = host;
+    datas1['port'] = port;
+        
+    datas2['active'] = active;
+    datas2['host'] = ftphost;
+    datas2['port'] = port;
+    datas2['user'] = user;
+    datas2['password'] = password;
+    datas2['remote_save_dir'] = remote;
+
+    datas3['active'] = samactive;
+    datas3['path'] = path;
+        
+    datas4['WindFramName'] = WindFramName;
+    datas4['template'] = template;
+        
+    datas['udp_server'] = datas1;
+    datas['ftp'] = datas2;
+    datas['samba'] = datas3;
+    datas['WindFramInformation'] = datas4;
+    datas['expire'] = expire;
+
+
+
+
+    udp_server = {}
+    ftp = {}
+    samba = {}
+    WindFramInformation = {}
+
+
+    if request.method == 'GET':
+        udp_server = request.GET['udp_server']
+        ftp = request.GET['ftp']
+        samba = request.GET['samba']
+        WindFramInformation= request.GET['WindFramInformation']
+        expire= request.GET['expire']
+    
+    print(expire)
+
+    datas = {};
+
+    datas1 = {};
+    datas2 = {};
+    datas3 = {};
+    datas4 = {};
+
+    datas1['host'] = host;
+    datas1['port'] = port;
+        
+    datas2['active'] = active;
+    datas2['host'] = ftphost;
+    datas2['port'] = port;
+    datas2['user'] = user;
+    datas2['password'] = password;
+    datas2['remote_save_dir'] = remote;
+
+    datas3['active'] = samactive;
+    datas3['path'] = path;
+        
+    datas4['WindFramName'] = WindFramName;
+    datas4['template'] = template;
+        
+    datas['udp_server'] = datas1;
+    datas['ftp'] = datas2;
+    datas['samba'] = datas3;
+    datas['WindFramInformation'] = datas4;
+    datas['expire'] = expire;
+    print(data['udp_server'])
+
+
+
+    b = data['samba']
+    print(data)
+    print(data['samba'])
+    print(data['expire'])
+    print(b['active'])
+
+    datas = {};
+
+    datas1 = {};
+    datas2 = {};
+    datas3 = {};
+    datas4 = {};
+
+    host = data['udp_server']['host']
+    port = data['udp_server']['port']
+    datas1['host'] = host;
+    datas1['port'] = port;
+    
+    active = data['ftp']['active']
+    ftphost = data['ftp']['host']
+    port = data['ftp']['port']
+    user = data['ftp']['user']
+    password = data['ftp']['password']
+    remote = data['ftp']['remote_save_dir']
+
+    datas2['active'] = active;
+    datas2['host'] = ftphost;
+    datas2['port'] = port;
+    datas2['user'] = user;
+    datas2['password'] = password;
+    datas2['remote_save_dir'] = remote;
+    
+    samactive = data['samba']['active']
+    path = data['samba']['path']
+    datas3['active'] = samactive;
+    datas3['path'] = path;
+    
+    WindFramName = data['WindFramInformation']['WindFramName']
+    template = data['WindFramInformation']['template']
+    datas4['WindFramName'] = WindFramName;
+    datas4['template'] = template;
+    
+    expire = data['expire']
+    datas['udp_server'] = datas1;
+    datas['ftp'] = datas2;
+    datas['samba'] = datas3;
+    datas['WindFramInformation'] = datas4;
+    datas['expire'] = expire;

@@ -1,0 +1,168 @@
+/* CSS Document */
+body {
+    background-image: url(../img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    height: 150px;
+    width: 100%;
+    min-width: 1000px;
+    text-align: center;
+    color: white;
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+}
+
+header > h1 {
+    text-shadow: 3px 3px 3px black;
+    text-align: center;
+    padding-top: 100px;
+}
+
+section {
+    width: 80%;
+    min-width: 1300px;
+    min-height: 500px;
+    margin: 50px auto;
+}
+
+div.test {
+    width: 20%;
+    min-width: 220px;
+    height: 40%;
+    min-height: 450px;
+    padding-left: 30px;
+    background-color: rgb(0, 0, 0, 0.8);
+    color: white;
+    border: solid 1px white;
+    float: left;
+    line-height: 40px;
+}
+
+div.test select, option {
+    width: 100px;
+    padding: 2px;
+    text-align: center;
+}
+
+div.test img {
+    width: 25px;
+    height: 25px;
+}
+
+div.test button {
+    width: 100px;
+    border-radius: 5px;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+div.button:active {
+    background: red;
+}
+
+div.test span {
+    width: 100px;
+    display: inline-block;
+    text-align: justify;
+    vertical-align: bottom;
+}
+
+div.test input {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    color: black;
+    vertical-align: middle;
+}
+
+div.message {
+    float: left;
+    display: inline-block;
+    width: 30%;
+    min-width: 400px;
+    height: 40%;
+    min-height: 450px;
+    background-color: rgb(0, 0, 0, 0.8);
+    color: white;
+    border: solid 1px white;
+    line-height: 25px;
+}
+
+div#main {
+    width: 100%;
+    height: 160px;
+}
+
+div.message > span {
+    width: 140px;
+    display: inline-block;
+    text-align: justify;
+    vertical-align: bottom;
+}
+
+div.message > input {
+    width: 100px;
+    text-align: center;
+    color: black;
+}
+
+div.wave {
+    float: left;
+    display: inline-block;
+    width: 40%;
+    min-width: 200px;
+    height: 40%;
+    min-height: 450px;
+    border: solid 1px black;
+    background-color: rgb(255, 255, 255, 0.8);
+}
+
+div.wave1 {
+    width: 520px;
+    height: 200px;
+    background-color: rgb(255, 255, 255, 0.8);
+}
+
+div.wave span {
+    display: inline-block;
+    margin: 5px;
+    width: 100px;
+}
+
+div.wave > input {
+    width: 160px;
+}
+
+div.wave select {
+    width: 160px;
+}
+
+div.wave select > option {
+    text-align: center;
+}
+
+div.wave > button {
+    padding: 5px;
+    font-weight: bold;
+}
+
+footer {
+    min-width: 1000px;
+    bottom: 0px;
+    color: white;
+}
+
+i {
+    width: 100%;
+    height: 0;
+    display: inline-block;
+}
+
+/* 这里i作为空元素使用，目的是使得span元素两端对齐，让浏览器认为其并非最后一行 */

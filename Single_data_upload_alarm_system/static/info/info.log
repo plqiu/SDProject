@@ -1,0 +1,563 @@
+2017-04-09 20:31:29,958 - server - INFO - init success
+2017-04-09 20:31:29,958 - server - INFO - start...
+2017-04-09 20:31:29,959 - server - INFO - key is : f72905e7f083b332e71d0401ef70b642b50780ec
+2017-04-09 20:33:10,966 - server - INFO - init success
+2017-04-09 20:33:10,967 - server - INFO - start...
+2017-04-09 20:33:10,968 - server - INFO - key is : f72905e7f083b332e71d0401ef70b642b50780ec
+2017-04-09 20:33:20,684 - server - INFO - init success
+2017-04-09 20:33:20,684 - server - INFO - init success
+2017-04-09 20:33:20,684 - server - INFO - start...
+2017-04-09 20:33:20,684 - server - INFO - start...
+2017-04-09 20:33:20,685 - server - INFO - run...
+2017-04-09 20:33:20,685 - server - INFO - run...
+2017-04-09 20:35:27,924 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:35:27,924 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:38:35,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:38:35,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:41:42,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:41:42,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:44:49,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:44:49,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:47:56,980 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:47:56,980 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:51:04,244 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:51:04,244 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:54:11,509 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:54:11,509 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:57:18,772 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:57:18,772 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 20:59:01,229 - server - INFO - init success
+2017-04-09 20:59:01,229 - server - INFO - start...
+2017-04-09 20:59:01,230 - server - INFO - run...
+2017-04-09 21:02:46,352 - server - INFO - init success
+2017-04-09 21:02:46,353 - server - INFO - start...
+2017-04-09 21:02:46,353 - server - INFO - run...
+2017-04-09 21:04:53,684 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:05:05,752 - server - INFO - init success
+2017-04-09 21:05:05,752 - server - INFO - start...
+2017-04-09 21:05:05,753 - server - INFO - run...
+2017-04-09 21:05:24,812 - server - INFO - init success
+2017-04-09 21:05:24,813 - server - INFO - start...
+2017-04-09 21:05:24,814 - server - INFO - run...
+2017-04-09 21:07:32,020 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:09:48,977 - server - INFO - init success
+2017-04-09 21:09:48,978 - server - INFO - start...
+2017-04-09 21:09:48,978 - server - INFO - run...
+2017-04-09 21:11:56,212 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:16:25,407 - server - INFO - init success
+2017-04-09 21:16:25,408 - server - INFO - start...
+2017-04-09 21:16:25,408 - server - INFO - run...
+2017-04-09 21:18:32,628 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:24:02,938 - server - INFO - init success
+2017-04-09 21:24:02,939 - server - INFO - start...
+2017-04-09 21:24:02,939 - server - INFO - run...
+2017-04-09 21:26:10,228 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:29:38,189 - server - INFO - init success
+2017-04-09 21:29:38,189 - server - INFO - start...
+2017-04-09 21:29:38,190 - server - INFO - run...
+2017-04-09 21:30:11,549 - server - INFO - init success
+2017-04-09 21:30:11,550 - server - INFO - start...
+2017-04-09 21:30:11,550 - server - INFO - run...
+2017-04-09 21:33:41,426 - server - INFO - init success
+2017-04-09 21:33:41,426 - server - INFO - start...
+2017-04-09 21:33:41,427 - server - INFO - run...
+2017-04-09 21:35:48,660 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:38:55,924 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:42:03,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:45:10,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:48:17,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:50:19,907 - server - INFO - init success
+2017-04-09 21:50:19,907 - server - INFO - start...
+2017-04-09 21:50:19,908 - server - INFO - run...
+2017-04-09 21:52:27,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 21:55:13,536 - server - INFO - init success
+2017-04-09 21:55:13,536 - server - INFO - start...
+2017-04-09 21:55:13,537 - server - INFO - run...
+2017-04-09 21:56:19,633 - server - INFO - init success
+2017-04-09 21:56:19,634 - server - INFO - start...
+2017-04-09 21:56:19,634 - server - INFO - run...
+2017-04-09 21:58:26,868 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:02:22,769 - server - INFO - init success
+2017-04-09 22:02:22,769 - server - INFO - start...
+2017-04-09 22:02:22,770 - server - INFO - run...
+2017-04-09 22:04:30,132 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:07:37,397 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:10:44,660 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:22:36,863 - server - INFO - init success
+2017-04-09 22:22:36,863 - server - INFO - start...
+2017-04-09 22:22:36,864 - server - INFO - run...
+2017-04-09 22:24:29,706 - server - INFO - init success
+2017-04-09 22:24:29,706 - server - INFO - start...
+2017-04-09 22:24:29,707 - server - INFO - run...
+2017-04-09 22:26:39,607 - server - INFO - init success
+2017-04-09 22:26:39,607 - server - INFO - start...
+2017-04-09 22:26:39,608 - server - INFO - run...
+2017-04-09 22:28:20,888 - server - INFO - init success
+2017-04-09 22:28:20,889 - server - INFO - start...
+2017-04-09 22:28:20,889 - server - INFO - run...
+2017-04-09 22:30:15,369 - server - INFO - init success
+2017-04-09 22:30:15,369 - server - INFO - start...
+2017-04-09 22:30:15,370 - server - INFO - run...
+2017-04-09 22:30:52,429 - server - INFO - init success
+2017-04-09 22:30:52,429 - server - INFO - start...
+2017-04-09 22:30:52,430 - server - INFO - run...
+2017-04-09 22:32:59,700 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:36:06,964 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:39:14,228 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:40:15,251 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-09 22:41:15,274 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-09 22:44:22,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:47:29,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:50:27,517 - __main__ - INFO - init success
+2017-04-09 22:50:27,517 - __main__ - INFO - start...
+2017-04-09 22:50:27,518 - __main__ - INFO - run...
+2017-04-09 22:52:34,740 - __main__ - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:55:42,004 - __main__ - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:58:49,268 - __main__ - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 22:59:50,039 - __main__ - INFO - init success
+2017-04-09 22:59:50,039 - __main__ - INFO - start...
+2017-04-09 22:59:50,040 - __main__ - INFO - run...
+2017-04-09 22:59:56,539 - __main__ - INFO - init success
+2017-04-09 22:59:56,539 - __main__ - INFO - start...
+2017-04-09 22:59:56,540 - __main__ - INFO - run...
+2017-04-09 23:02:03,828 - __main__ - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:15:24,648 - server - INFO - init success
+2017-04-09 23:15:24,649 - server - INFO - start...
+2017-04-09 23:15:24,649 - server - INFO - run...
+2017-04-09 23:17:31,828 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:20:39,092 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:23:46,356 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:26:53,620 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:30:00,884 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:33:08,148 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:36:15,412 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:39:22,676 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:42:29,940 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:45:37,204 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:48:44,468 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:51:51,732 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-09 23:54:58,996 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:17:34,339 - server - INFO - init success
+2017-04-10 00:17:34,339 - server - INFO - start...
+2017-04-10 00:17:34,340 - server - INFO - run...
+2017-04-10 00:19:41,620 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:22:48,884 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:25:56,148 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:29:03,412 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:32:10,676 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:35:17,940 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:38:25,204 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:41:32,468 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:44:39,732 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:47:46,996 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:50:54,260 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:54:01,524 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 00:57:08,788 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:00:16,052 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:03:23,316 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:06:30,580 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:09:37,844 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:12:45,108 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:15:52,372 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:18:59,636 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:22:06,900 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:25:14,164 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:28:21,428 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:31:28,692 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:34:36,233 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:37:43,732 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:40:50,996 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:43:58,260 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:47:05,524 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:50:12,788 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:53:20,052 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:56:27,316 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 01:59:34,580 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:02:41,844 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:05:49,108 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:07:52,263 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 02:10:59,508 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:14:06,772 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:17:14,036 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:20:21,300 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:23:28,564 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:26:36,332 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:29:43,860 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:32:51,124 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:35:58,388 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:39:05,652 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:42:12,916 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:45:20,180 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:48:27,444 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:51:34,708 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:54:41,972 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 02:57:49,236 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:00:56,500 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:04:03,764 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:07:11,028 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:10:18,292 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:13:25,556 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:16:32,820 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:19:40,084 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:22:47,348 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:25:54,612 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:29:01,876 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:32:09,140 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:35:16,404 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:38:23,668 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:41:30,932 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:44:38,196 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:47:45,460 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:50:52,724 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:53:59,988 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 03:57:07,252 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:00:14,516 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:03:21,780 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:06:29,044 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:09:37,001 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:12:44,212 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:14:47,367 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 04:17:54,612 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:21:01,876 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:24:09,140 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:27:16,404 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:30:23,668 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:33:30,932 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:36:38,196 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:39:45,460 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:42:52,724 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:45:59,988 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:49:07,252 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:52:14,516 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:55:21,780 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 04:58:29,044 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:01:36,993 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:04:44,340 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:07:51,604 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:10:58,868 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:14:06,132 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:17:13,396 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:20:20,660 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:23:27,924 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:26:35,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:29:42,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:32:49,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:35:56,980 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:39:04,244 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:42:11,508 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:45:18,772 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:48:26,036 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:49:29,063 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 05:52:37,277 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:55:44,692 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 05:58:51,956 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:01:59,220 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:05:06,484 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:08:13,748 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:11:21,012 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:14:28,276 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:17:35,540 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:20:42,804 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:23:50,068 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:26:57,332 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:29:00,489 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 06:32:07,732 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:35:14,996 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:38:22,260 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:41:29,524 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:44:37,637 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:47:44,948 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:50:52,212 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:53:59,476 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 06:57:06,740 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:00:14,004 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:03:21,268 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:06:28,532 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:09:35,796 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:12:43,060 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:15:50,324 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:18:57,588 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:22:04,852 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:25:12,116 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:28:19,380 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:31:26,644 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:34:33,908 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:37:41,172 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:40:48,436 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:43:55,700 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:47:02,964 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:50:10,228 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:53:17,492 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:56:24,756 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 07:59:32,020 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:02:39,284 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:05:46,548 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:08:53,812 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:12:01,076 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:15:08,340 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:18:15,604 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:21:22,868 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:24:30,132 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:27:38,017 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:30:45,300 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:33:52,564 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:36:59,828 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:40:07,092 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:41:38,185 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 08:44:45,492 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:47:52,756 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:51:00,020 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:54:07,284 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 08:57:14,548 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:00:21,812 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:03:29,076 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:06:36,340 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:09:43,604 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:12:50,868 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:15:58,132 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:19:05,396 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:22:12,660 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:25:19,924 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:28:27,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:31:34,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:34:41,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:37:48,980 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:40:56,244 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:44:03,508 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:47:10,772 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:50:18,036 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:53:25,300 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:56:32,564 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 09:59:39,828 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:02:47,092 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:05:54,356 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:09:01,620 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:12:08,884 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:15:16,148 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:18:23,412 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:21:30,676 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:24:38,479 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:27:45,844 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:30:53,108 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:32:08,169 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 10:35:15,380 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:38:22,644 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:41:29,908 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:44:38,609 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:47:45,844 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:50:53,108 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:54:00,372 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 10:57:07,636 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:00:14,900 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:03:22,164 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:06:29,428 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:09:36,692 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:12:43,956 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:15:51,220 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:18:58,484 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:22:05,748 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:25:13,012 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:28:20,276 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:31:27,540 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:34:34,804 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:37:42,068 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:38:57,129 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 11:42:04,340 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:45:11,604 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:48:18,869 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:51:26,133 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:54:33,396 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 11:57:40,660 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:00:47,925 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:03:55,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:07:02,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:10:09,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:13:16,980 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:16:24,244 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:19:31,508 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:22:38,983 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:25:46,293 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:28:53,556 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:32:00,820 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:35:08,084 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:38:15,348 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:41:22,612 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:44:29,876 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:47:37,140 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:50:44,404 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:53:51,668 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 12:56:58,932 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:00:06,196 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:03:13,460 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:06:20,724 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:09:27,988 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:12:35,252 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:15:42,516 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:18:49,780 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:19:49,802 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 13:22:57,076 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:26:04,340 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:29:11,604 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:32:18,868 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:35:26,132 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:38:33,396 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:41:40,660 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:44:47,924 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:47:55,188 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:51:02,452 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:54:09,716 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:57:16,980 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 13:58:20,009 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 14:01:27,348 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:04:34,612 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:07:41,876 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:10:49,140 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:13:56,404 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:17:03,668 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 22] Invalid argument
+2017-04-10 14:20:10,933 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:23:18,196 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:26:25,460 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:29:32,724 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:32:39,988 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:35:47,252 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:38:54,516 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:42:01,780 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:45:09,044 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:48:16,308 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:51:23,572 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:54:30,836 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 14:57:39,372 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:00:47,028 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:03:54,292 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:07:01,556 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:10:08,820 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:13:16,084 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:16:23,348 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:19:30,612 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:22:37,876 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:25:45,140 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:28:52,404 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:31:59,668 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:35:06,932 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:38:14,196 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:41:21,460 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:44:28,724 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:47:35,988 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:50:43,252 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:53:50,516 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:56:57,780 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 15:59:00,935 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 16:00:01,960 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 16:03:09,236 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:06:16,500 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:09:23,764 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:12:31,028 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:15:38,292 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:18:45,556 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:21:52,820 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:25:00,084 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:28:07,348 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:31:14,612 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:34:21,876 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:37:29,140 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:40:36,404 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:43:43,668 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:46:50,932 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:49:58,196 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:50:59,218 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 16:54:06,388 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 16:57:13,653 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:00:20,916 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:03:28,180 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:06:35,444 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:09:42,708 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:12:49,972 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:15:57,236 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:19:04,500 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:22:11,764 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:25:19,028 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:28:26,292 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:31:33,556 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:34:40,821 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:37:48,084 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:38:55,120 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 17:42:02,292 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:45:09,556 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:48:16,820 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:51:24,084 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:54:31,348 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 17:57:38,612 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:00:45,876 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:03:53,140 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:07:00,404 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:10:07,668 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:13:14,932 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:16:22,196 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:19:29,460 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:22:36,724 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:25:43,988 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:28:51,252 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:31:58,516 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:35:05,780 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:38:13,044 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:41:20,308 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:44:27,572 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:45:22,284 - server - INFO - init success
+2017-04-10 18:45:22,285 - server - INFO - start...
+2017-04-10 18:45:22,286 - server - INFO - run...
+2017-04-10 18:47:29,588 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:50:36,852 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:53:44,116 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:56:51,380 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 18:59:58,644 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 19:08:38,766 - server - INFO - init success
+2017-04-10 19:08:38,776 - server - INFO - start...
+2017-04-10 19:08:38,777 - server - INFO - run...
+2017-04-10 19:09:35,284 - server - INFO - init success
+2017-04-10 19:09:35,285 - server - INFO - start...
+2017-04-10 19:09:35,285 - server - INFO - run...
+2017-04-10 19:10:36,424 - server - INFO - init success
+2017-04-10 19:10:36,424 - server - INFO - start...
+2017-04-10 19:10:36,425 - server - INFO - run...
+2017-04-10 19:12:43,643 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 19:13:58,988 - server - INFO - init success
+2017-04-10 19:13:58,988 - server - INFO - start...
+2017-04-10 19:13:58,989 - server - INFO - run...
+2017-04-10 19:15:02,159 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 101] Network is unreachable
+2017-04-10 19:18:09,403 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 19:21:16,667 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 19:28:59,786 - server - INFO - init success
+2017-04-10 19:28:59,787 - server - INFO - start...
+2017-04-10 19:28:59,788 - server - INFO - run...
+2017-04-10 19:30:02,659 - server - INFO - init success
+2017-04-10 19:30:02,660 - server - INFO - start...
+2017-04-10 19:30:02,660 - server - INFO - run...
+2017-04-10 19:45:20,070 - server - INFO - init success
+2017-04-10 19:45:20,080 - server - INFO - start...
+2017-04-10 19:45:20,081 - server - INFO - run...
+2017-04-10 20:14:28,869 - server - INFO - init success
+2017-04-10 20:14:28,879 - server - INFO - start...
+2017-04-10 20:14:28,879 - server - INFO - run...
+2017-04-10 20:41:33,787 - server - INFO - init success
+2017-04-10 20:41:33,800 - server - INFO - start...
+2017-04-10 20:41:33,801 - server - INFO - run...
+2017-04-10 20:47:42,759 - server - INFO - init success
+2017-04-10 20:47:42,766 - server - INFO - start...
+2017-04-10 20:47:42,767 - server - INFO - run...
+2017-04-10 20:48:04,286 - server - INFO - init success
+2017-04-10 20:48:04,286 - server - INFO - start...
+2017-04-10 20:48:04,287 - server - INFO - run...
+2017-04-10 20:50:11,578 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 20:53:18,842 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 21:13:37,378 - server - INFO - init success
+2017-04-10 21:13:37,379 - server - INFO - start...
+2017-04-10 21:13:37,380 - server - INFO - run...
+2017-04-10 21:15:44,723 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 21:18:51,987 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 21:21:59,251 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 21:25:06,515 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 21:28:13,779 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
+2017-04-10 22:13:17,873 - server - INFO - init success
+2017-04-10 22:13:17,892 - server - INFO - start...
+2017-04-10 22:13:17,893 - server - INFO - run...
+2017-04-10 22:23:25,367 - server - ERROR - connect failed, reasons are follows: Unable to connect to 10.24.28.248: [Errno 110] Connection timed out
